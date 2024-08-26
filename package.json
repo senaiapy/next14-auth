@@ -31,7 +31,7 @@
     "@serwist/next": "^9.0.3",
     "@uploadthing/react": "^6.0.2",
     "arctic": "^1.9.1",
-    "dayjs": "^1.11.10",
+    "dayjs": "^1.11.13",
     "input-otp": "^1.2.4",
     "lucia": "3.2.0",
     "lucide-react": "^0.341.0",
